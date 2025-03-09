@@ -1,0 +1,27 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "keyray"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+#  logo = "img/logo.png"
+#  secondaryLogo = ""
+  description = "My awesome website"
+#  copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "It's Kee Rui."
+  email = "youremail@example.com"
+  image = "meerkat.png"
+  imageQuality = 96
+  headline = "brb, serving my country"
+  # bio = "A little bit about you"
+  links = [
+    { github = "https://github.com/krsng-lab" },
+    { discord = "https://discord.gg/invitecode" }
+]
