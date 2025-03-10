@@ -22,5 +22,6 @@ title = "keyray"
   headline = "brb, serving my country"
   # bio = "A little bit about you"
   links = [
-    { github = "https://github.com/krsng-lab" }
+    { github = "https://github.com/krsng-lab" },
+    { discord = "https://discord.gg/invitecode" }
 ]
