@@ -1,5 +1,5 @@
 ## Personal Website
 
-### Created with Hugo
+### Created with Hugo & Blowfish 
 
-### Preview the website @ krsng-lab.github.io
+### Preview the website @ https://krsng-lab.github.io/
